@@ -1,4 +1,4 @@
-﻿# Million-Songs-Analysis-LDSA
+﻿# Million Songs Analysis
 ### Data set
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The data set being used is called 'Million Song Dataset', it contains meta data from around one million different songs, and has a total size of 300 GB.
  
@@ -6,7 +6,7 @@
  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The data set does not store any actual audio but instead consists of song features and meta-data collected and analyzed by The Echo Nest. Each HDF5 file stores information about one song as seen in the picture below.
 
- <p align="center"><img src="https://github.com/aminedassouli/pss-essay-2019/blob/master/HDF5.png"></p>
+ <p align="center"><img src="https://github.com/aminedassouli/Million_Song_Analysis-/blob/master/HDF5.png"></p>
 
 ### Problem description
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Given a song, the goal is to find some other similar ones. 
